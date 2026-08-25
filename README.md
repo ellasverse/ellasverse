@@ -12,6 +12,14 @@ Me chamo Isabella Ribeiro, tenho 18 anos, conclui meu ensino médio recentemente
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/isabella-ribeiro-ads">
+        <img 
+            alt="linkedin" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
     <a href="https://github.com/ellasverse?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -70,19 +78,20 @@ Me chamo Isabella Ribeiro, tenho 18 anos, conclui meu ensino médio recentemente
 
 ### 📊 Estatísticas
 
-<p align="left">
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=ellasverse&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellasverse&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ellasverse&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ellasverse&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
 </p>
