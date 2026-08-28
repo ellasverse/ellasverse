@@ -1,45 +1,65 @@
-# 🗂️ Isabella Ribeiro
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/049bf2ee-b9d8-4d9a-991d-891a1df593ae" />
+<div align="center">
 
-**`Estudante de Ads`**
+<img src="banner.png" alt="Isabella Ribeiro banner" width="100%"/>
 
-Me chamo Isabella Ribeiro, tenho 18 anos, conclui meu ensino médio recentemente e atualmente eu curso Análise e Desenvolvimento de Sistemas na Unip.
+</div>
+
+<br/>
+
+Me chamo **Isabella Ribeiro**, tenho 18 anos, concluí meu ensino médio recentemente e atualmente curso **Análise e Desenvolvimento de Sistemas** na Unip.
 
 <p align="left">
     <a href="https://www.instagram.com/lds.ella?igsi=MWdhZGlocTE3ZTVidg==">
         <img 
             alt="instagram" 
             title="Me siga no instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://img.shields.io/badge/Instagram-761678?style=for-the-badge&logo=instagram&logoColor=FFFFFF"
         />
     </a>
     <a href="https://www.linkedin.com/in/isabella-ribeiro-ads">
         <img 
             alt="linkedin" 
             title="Me siga no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-02054C?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
         />
     </a>
 </p>
+
+<p align="left">
     <a href="https://github.com/ellasverse?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ellasverse?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ellasverse?color=55D6BE&style=for-the-badge&labelColor=02054C&logo=star&label=estrelas&logoColor=000501"
         />
     </a>
     <a href="https://github.com/ellasverse?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ellasverse?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ellasverse?color=761678&labelColor=000501&style=for-the-badge&logo=github&label=Seguidores&logoColor=FFFFFF"
         />
     </a>
 </p>
 
 ---
 
-### 🌐 Linguagens e outros 
+### `01` // TIDE_IDENTITY
 
+```js
+const isabella = {
+  role: "Estudante de ADS",
+  formation: "Análise e Desenvolvimento de Sistemas",
+  institution: "Unip",
+  age: 18,
+  stack: ["Python", "C"],
+}
+```
+
+---
+
+### `02` // SCALE_STACK
 <img 
     align="left" 
     alt="C"
@@ -72,26 +92,20 @@ Me chamo Isabella Ribeiro, tenho 18 anos, conclui meu ensino médio recentemente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ellasverse&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+### `03` // DEEP_TERMINAL
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ellasverse&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+```bash
+> iniciando sistema...
+[..] habilidades em construção
 
+STATUS: EM EVOLUÇÃO CONSTANTE ✓
+```
+
+<p align="center">
+  <sub>TIDE SYSTEM // ONLINE</sub>
 </p>
