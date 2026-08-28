@@ -1,13 +1,9 @@
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/049bf2ee-b9d8-4d9a-991d-891a1df593ae" />
 <div align="center">
 
-<img src="banner.png" alt="Isabella Ribeiro banner" width="100%"/>
-
 </div>
 
 <br/>
-
-Me chamo **Isabella Ribeiro**, tenho 18 anos, concluí meu ensino médio recentemente e atualmente curso **Análise e Desenvolvimento de Sistemas** na Unip.
 
 <p align="left">
     <a href="https://www.instagram.com/lds.ella?igsi=MWdhZGlocTE3ZTVidg==">
