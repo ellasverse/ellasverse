@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/isabella-ribeiro-ads">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
-  <a href="https://www.instagram.com/ella.dev.br">
+  <a href="https://www.instagram.com/lds.ella">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/ellasverse?tab=repositories&sort=stargazers">
@@ -23,14 +23,7 @@
 
 <hr/>
 
-<table>
-  <tr>
-    <th align="center" width="40%">Pessoal:</th>
-    <th align="center" width="30%">Tech:</th>
-    <th align="center" width="30%">Projects:</th>
-  </tr>
-  <tr>
-    <td valign="top">
+<h2 align="center">Pessoal:</h2>
 
 ```js
 const isabella = {
@@ -48,19 +41,17 @@ const isabella = {
 };
 ```
 
-</td>
-    <td align="center" valign="top">
-      <img src="imagens/c.png" alt="C" title="C" width="48" />
-      <img src="imagens/python.jpg" alt="Python" title="Python" width="48" />
-      <img src="imagens/html.png" alt="HTML5" title="HTML5" width="48" />
-      <img src="imagens/css.jpeg" alt="CSS3" title="CSS3" width="48" />
-      <img src="imagens/js.jpeg" alt="JavaScript" title="JavaScript" width="48" />
-      <img src="imagens/mysql.jpg" alt="MySQL" title="MySQL" width="48" />
-    </td>
-    <td align="center" valign="top">
+<h2 align="center">Tech:</h2>
 
-Em breve…
+<p align="center">
+  <img src="imagens/c.png" alt="C" title="C" width="56" />
+  <img src="imagens/python.jpg" alt="Python" title="Python" width="56" />
+  <img src="imagens/html.png" alt="HTML5" title="HTML5" width="56" />
+  <img src="imagens/css.jpeg" alt="CSS3" title="CSS3" width="56" />
+  <img src="imagens/js.jpeg" alt="JavaScript" title="JavaScript" width="56" />
+  <img src="imagens/mysql.jpg" alt="MySQL" title="MySQL" width="56" />
+</p>
 
-</td>
-  </tr>
-</table>
+<h2 align="center">Projects:</h2>
+
+<p align="center">Em breve…</p>
