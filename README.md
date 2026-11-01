@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/isabella-ribeiro-ads">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
-  <a href="https://www.instagram.com/lds.ella">
+  <a href="https://www.instagram.com/ella.dev.br">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/ellasverse?tab=repositories&sort=stargazers">
