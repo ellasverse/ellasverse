@@ -54,4 +54,12 @@ const isabella = {
 
 <h2 align="center">Projects:</h2>
 
-<p align="center">Em breve…</p>
+<p align="center">
+  Meus projetos pessoais e acadêmicos estão reunidos no Notion, com planejamento, documentação e desenvolvimento.
+</p>
+
+<p align="center">
+  <a href="https://sassy-yew-3a4.notion.site/Projects-40c5d54182ba808c9660fa73e81e3a33">
+    <img alt="Notion" title="Explorar projetos" src="https://img.shields.io/badge/Notion-Explorar%20projetos-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
+  </a>
+</p>
