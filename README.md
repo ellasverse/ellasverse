@@ -49,9 +49,9 @@ const isabella = {
   <img src="imagens/html.png" alt="HTML5" title="HTML5" width="56" />
   <img src="imagens/css.jpeg" alt="CSS3" title="CSS3" width="56" />
   <img src="imagens/js.jpeg" alt="JavaScript" title="JavaScript" width="56" />
-  <img src="imagens/sql.jpg" alt="SQL" title="SQL" width="56" />
-  <img src="imagens/vscode.jpg" alt="VS Code" title="VS Code" width="56" />
-  <img src="imagens/figma.jpg" alt="Figma" title="Figma" width="56" />
+  <img src="imagens/imagens/sql.jpg" alt="SQL" title="SQL" width="56" />
+  <img src="imagens/imagens/vscode.jpg" alt="VS Code" title="VS Code" width="56" />
+  <img src="imagens/imagens/figma.jpg" alt="Figma" title="Figma" width="56" />
 </p>
 
 <h2 align="center">Projects:</h2>
